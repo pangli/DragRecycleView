@@ -27,6 +27,5 @@ dependencies {
     compile rootProject.ext.support
     compile rootProject.ext.glide
     annotationProcessor rootProject.ext.glideAnnotationProcessor
-    compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
 }
